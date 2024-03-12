@@ -1,0 +1,44 @@
+/* Insert any CSS code below here */
+
+ol{
+  border: 8px;
+  border-radius: 8%;
+  border-color: blanchedalmond;
+  border-style: dotted dashed solid double;
+  padding: 25px;
+}
+
+h1{
+  color:mediumvioletred;
+  border: 4px;
+  border-radius: 8%;
+  border-color: purple;
+  border-style: dotted;
+  padding: 12px;
+  }
+
+h2{
+  border: 4px;
+  border-radius: 8%;
+  border-color: lightcoral;
+  border-style: dashed;
+  padding: 4px;
+}
+
+p{
+  font-size:18px;
+  color:black;
+  font-family: 'Bubblegum Sans', sans-serif;
+}
+
+li{
+  font-family: 'Courier New', Courier, monospace;
+}
+
+td{
+  font-family: 'Bubblegum Sans', sans-serif;
+}
+
+table{
+  background-color: #fbc4ac;
+}
